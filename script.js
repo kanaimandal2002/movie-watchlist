@@ -6,8 +6,7 @@ const tabs = document.querySelectorAll('.tab');
 const watchlistContent = document.getElementById('watchlist-content');
 const watchedContent = document.getElementById('watched-content');
 
-// API Key for OMDb API (Free tier - 1000 requests per day)
-const API_KEY = 'b9a48916'; // This is a demo key - replace with your own from http://www.omdbapi.com/apikey.aspx
+const API_KEY = '9404856'; // This is a demo key - replace with your own
 
 // Movie lists from localStorage
 let watchlist = JSON.parse(localStorage.getItem('watchlist')) || [];
