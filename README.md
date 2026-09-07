@@ -8,7 +8,6 @@ A responsive web application for managing your movie watchlist using the OMDb AP
 - **Watchlist Management**: Add movies to your watchlist or mark them as watched
 - **Persistent Storage**: Your lists are saved locally in your browser
 
-
 ## Live Demo
 
 You can view a live version of this tool at [(https://kanaimandal2002.github.io/movie-watchlist/)]
